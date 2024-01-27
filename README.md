@@ -32,8 +32,8 @@ This project, "Recruitment-Filtration-for-Enterprises-using-ML-model" leverages 
         
     ├── Resume Ranker
     │   ├── Job Description.txt   
-    |   ├── resumeparserfinal.ipynb
-    │   └── Resume Ranking Data Set.csv                  
+    |   ├── resume-ranker.ipynb
+    │   └── dataset.csv                  
  
  ## OneAPI Optimization
 
